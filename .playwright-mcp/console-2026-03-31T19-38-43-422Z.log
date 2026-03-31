@@ -1,0 +1,2 @@
+[    1139ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/loginpagePractise/:0
+[    2099ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://px.ads.linkedin.com/attribution_trigger?pid=8312178&time=1774985925127&url=https%3A%2F%2Frahulshettyacademy.com%2FloginpagePractise%2F:0
